@@ -34,8 +34,6 @@ The goal is to identify **high-risk customer segments**, understand churn patter
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
 
 ---
 
